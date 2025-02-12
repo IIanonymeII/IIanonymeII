@@ -5,7 +5,7 @@ Python lover
 <div align="center">
   <!-- GitHub Stats Card -->
   <a href="https://github.com/IIanonymeII">
-    <img src="https://github-readme-stats.vercel.app/api?username=IIanonymeII&theme=onedark&show_icons=true&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=IIanonymeII&theme=onedark&show_icons=true&hide_border=true" alt="GitHub Stats" />
   </a>
 </div>
 
