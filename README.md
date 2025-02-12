@@ -2,10 +2,11 @@
 Python lover
 
 
-
-<a href="https://github.com/ichtrojan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=IIanonymeII&theme=nord&show_icons=true&count_private=true&hide=contribs&line_height=40" />
-</a>
-<a href="https://github.com/ichtrojan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IIanonymeII&theme=nord&langs_count=4&hide=html,css" />
-</a>
+<div align="center">
+  <a href="https://github.com/IIanonymeII">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=IIanonymeII&theme=onedark&show_icons=true&hide_border=true&include_all_commits=true" />
+  </a>
+  <a href="https://github.com/IIanonymeII">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IIanonymeII&layout=compact&theme=onedark&hide_border=true" />
+  </a>
+</div>
