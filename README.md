@@ -30,14 +30,14 @@ Python lover
 <div align="center">
   <!-- Visitor Count Badge -->
   <a href="https://github.com/IIanonymeII">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=IIanonymeII&theme=tokyo-night" alt="Visitor Count" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=IIanonymeII&theme=tokyo-night&point=df6d74&line=c6a86f&bg_color=282c34&title_color=c6a86f&color=c6a86f" alt="Visitor Count" />
   </a>
 </div>
 
 <div align="center">
   <!-- Visitor Count Badge -->
   <a href="https://github.com/IIanonymeII">
-    <img src="https://komarev.com/ghpvc/?username=IIanonymeII&style=flat-square&color=blue" alt="Visitor Count" />
+    <img src="https://komarev.com/ghpvc/?username=IIanonymeII&style=flat-square&color=df6d74" alt="Visitor Count" />
   </a>
 </div>
 
